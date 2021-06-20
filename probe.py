@@ -1,2 +1,2 @@
 print('Hello Git')
-# wcd
+res = [i for i in range(10)]
