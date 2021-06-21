@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd796abf-afbd-422a-8db3-168f47da5cd1" name="Default Changelist" comment="" />
+    <list id="4800c102-9355-4917-80e4-1ddc7ebb98d3" name="объеденили 3 комита" comment="откат">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/probe.py" beforeDir="false" afterPath="$PROJECT_DIR$/probe.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +38,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -46,12 +51,14 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="bd796abf-afbd-422a-8db3-168f47da5cd1" name="Default Changelist" comment="" />
+      <changelist id="4800c102-9355-4917-80e4-1ddc7ebb98d3" name="объеденили 3 комита" comment="откат" />
       <created>1624210669917</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624210669917</updated>
       <workItem from="1624210672218" duration="9867000" />
       <workItem from="1624260221531" duration="5303000" />
+      <workItem from="1624266096606" duration="2022000" />
     </task>
     <servers />
   </component>
@@ -69,5 +76,8 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="объеденили 3 комита" />
   </component>
 </project>
